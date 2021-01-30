@@ -1,0 +1,28 @@
+.appointment-form-wrapper .form-group label {
+    float:left !important;
+}
+.bg-green {
+    background-color: green !important;
+}
+.bg-red {
+    background-color: red !important;
+}
+.doante_status{
+    padding: 5px 10px;
+    color: #fff;
+}
+.page-header{
+    padding: 0px !important;
+}
+ul.contact-info li address{
+    font-size: 16px;
+}
+
+.appointment-img{
+    height: 100%;
+    padding-top: 70px !important;
+}
+
+.section-banner .banner-content h2,.section-banner .banner-content h3{
+    color:#000;
+}
